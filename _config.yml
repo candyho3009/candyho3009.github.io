@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://candyho3009.github.io
+title: candyho3009
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
